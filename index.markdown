@@ -8,6 +8,15 @@ layout: page
 title: TOC
 ---
 
+# People
+
+| [How We Work](people#how-we-work) | [Ceremonies](people#ceremonies) | [Tools](people#tools) |
+|-----------------------------------|---------------------------------|-----------------------|
+| [Remote](people#remote)| [Annual Reviews](people#annual-reviews) | [Slack](people#slack) |
+| [Communication](people#communication) | [11 Meetings](people#1-1-meetings) | [Google Workspace](people#google-workspace) |
+| [Time Tracking](people#time-tracking) | [Pair Programming](people#pair-programming) | [Gusto](people#gusto) |
+
+
 # Code
 
 <!-- Disable word wrap to see how spacing works on tables -->
@@ -20,6 +29,12 @@ title: TOC
 
 
 # DevOps
+
+| [Actions](devops#actions) |
+|---------------------------|
+| [Pa11y](devops#pa11y) |
+| [Percy](devops#percy) |
+| [Automated Testing](devops#automated-testing) |
 
 # Documentation
 
