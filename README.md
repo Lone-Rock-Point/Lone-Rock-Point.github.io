@@ -1,6 +1,6 @@
 # Lone Rock Point Developer Playbook
 
-[Repo](https://github.com/Lone-Rock-Point/Lone-Rock-Point.github.io)
+[Repo](https://github.com/Lone-Rock-Point/Lone-Rock-Point.github.io) | [Site](https://lone-rock-point.github.io/)
 
 ## Project Summary
 
