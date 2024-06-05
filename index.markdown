@@ -13,7 +13,7 @@ title: TOC
 | [How We Work](people#how-we-work) | [Ceremonies](people#ceremonies) | [Tools](people#tools) |
 |-----------------------------------|---------------------------------|-----------------------|
 | [Remote](people#remote)| [Annual Reviews](people#annual-reviews) | [Slack](people#slack) |
-| [Communication](people#communication) | [11 Meetings](people#1-1-meetings) | [Google Workspace](people#google-workspace) |
+| [Communication](people#communication) | [1:1 Meetings](people#1-1-meetings) | [Google Workspace](people#google-workspace) |
 | [Time Tracking](people#time-tracking) | [Pair Programming](people#pair-programming) | [Gusto](people#gusto) |
 
 
