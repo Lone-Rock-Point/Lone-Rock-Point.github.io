@@ -5,7 +5,7 @@ permalink: /code/
 ---
 
 ## WordPress
-We build web-based solutions using WordPress as a CMS. We avoid using headless setups whenever possible, as they add a layer of complexity, code libraries, and development requirements that often times are not required.
+We build web-based solutions using WordPress as a CMS. We avoid using headless setups whenever possible, as they add a layer of complexity, code libraries, and additional requirements that are a barrier to development.
 
 ### WordPress Themes
 All WordPress sites require a theme to load. The focus of the theme is to handle appearance, design, and layout, while abstracting the required functionality into dedicated plugins. When appropriate, we use our in-house [CivicPress Theme](https://civicpress.us/) as a starting point, as it complies with the requirements listed in the [Integrated Digital Experience Act and OMB M-23-22](https://digital.gov/resources/delivering-digital-first-public-experience/).
@@ -23,7 +23,7 @@ _An exception to the single file plugin rule is if the plugin is a mu-plugin. In
 The plugin should have the following structure unless there is a specific need otherwise:
 
 ```
-plugin/
+client-function/
     index.php
     client-function.php
     assets/
@@ -75,3 +75,6 @@ All CSS is written using SCSS files and compiled. Both the theme and plugins oft
 
 ## HTML
 We strive to build clean and readable HTML when used. We use blocks and template tags to abstract layout pieces to allow them to be shared throughout the site to keep fragmentation at a minimum.
+
+## Accessibility
+Accessibility (a11y) is a requirement for all government sites, and all best practices are adhered to.
