@@ -62,7 +62,7 @@ Some situations require the use of open-source plugins developed by a third part
 ## PHP
 ### Coding Standards
 When possible, use the [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) in 
-[PHP_Codesniffer](https://github.com/squizlabs/PHP_CodeSniffer) to format your code.
+[PHP_Codesniffer](https://github.com/squizlabs/PHP_CodeSniffer) to format your code. We use only modern versions of PHP (8.2 and above) and all code is developed to avoid deprecated functions.
 
 
 ## Javascript
