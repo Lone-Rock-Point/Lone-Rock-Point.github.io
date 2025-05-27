@@ -4,8 +4,9 @@ Please include a summary of the changes and the related issue.
 If relavant, include screenshots. 
 Point the reviewer to any specific areas of concern.
 
-Fixes # 123
+Task # 123
 Link to issue: [Issue Link](https://app.asana.com)
+Link to test: [Test Link](https://www.lonerockpoint.com)
 
 ## Type of change
 
