@@ -32,3 +32,17 @@ In Codespaces:
 * Codespaces will pop up a modal linking you to a testing build.
 * Make changes to markdown files.
 * Reload the test build to confirm the changes are what you expected.
+
+If you do want to run this locally on MacOS, do the following:
+
+* In Terminal, run `brew install rbenv`
+* Initialize this by running `echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc` then `source ~/.zshrc`
+* Quit Terminal and restart it
+* Next, run `rbenv install 3.2.3` and `rbenv global 3.2.3`
+* Install the bundler using `gem install bundler`
+* Now, CD into this repo or open terminal in the repo using an IDE and run `bundle install`
+* Finally, run `bundle exec jekyll serve`
+
+The local site should be available at `http://127.0.0.1:4000/`
+
+
