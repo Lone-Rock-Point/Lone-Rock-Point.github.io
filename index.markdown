@@ -17,9 +17,14 @@ title: TOC
 | [Time Tracking](people#time-tracking) | [Pair Programming](people#pair-programming) | [Gusto](people#gusto) |
 
 
-# Code
+# [Code](code)
 
 <!-- Disable word wrap to see how spacing works on tables -->
+
+| [WordPress](code#wordpress) | Working in git | Code Reviews |
+|-----------|--------------|--------------|
+| [Themes](code#themes) | [ Branch Naming ](code#branch-naming) | [ Code Review ]( code#code-reviewer-requirements)|
+| [Plugins](code#plugins) | [ Pull Requests ](code#pull-request-description) |  |
 
 | [PHP](code#php)                                               | [Javascript](code#javascript) | [CSS](code#css) | [HTML](code#html) |
 |---------------------------------------------------------------|-------------------------------|-----------------|-------------------|
