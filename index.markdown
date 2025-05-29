@@ -24,7 +24,7 @@ title: TOC
 | [PHP](code#php)                                               | [Javascript](code#javascript) | [CSS](code#css) | [HTML](code#html) |
 |---------------------------------------------------------------|-------------------------------|-----------------|-------------------|
 | [Coding Standards](code#coding-standards)                     |                               | USWDS           | a11y              |
-| [WordPress Plugin Structure](code#wordpress-plugin-structure) |                               |                 |                   |
+| [Recommended Plugins](plugins#wordpress-plugin-structure) |                               |                 |                   |
 | [Namespaces](code#namespaces)                                 |                               |                 |                   |
 
 
