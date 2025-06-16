@@ -59,6 +59,22 @@ namespace ClientFunction;
 #### Third Party Plugins
 Some situations require the use of open-source plugins developed by a third party. Some examples would include form building, managing SEO settings, or user-provided redirects. These plugins are only used on an as-needed basis and are vetted for security and reliability before use.
 
+## Pull Requests
+### Branch Naming
+When creating a pull request, the branch name should be descriptive of the changes being made and include the Asana ticket number. The format should be `feature/ASANA-ID/description` or `fix/ASANA-ID/description`. For example, if you are adding a new feature to handle client functionality for an Asana task with the ID of `ABC-123` the branch name should be `feature/ABC-123/client-function`.
+
+### Pull Request Description
+The pull request description should include the following information:
+- A brief description of the changes being made
+- The Asana task ID with a link
+- A link to the staging site where the changes can be tested
+- Any additional information that may be relevant to the reviewer
+
+## Code Review
+### Code Reviewer Requirements
+All pull requests must be reviewed by at least one other developer before being merged. The reviewer should check for code quality, adherence to coding standards, and functionality. Once the pull request is approved, it can be merged into the main branch.
+
+
 ## PHP
 ### Coding Standards
 When possible, use the [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) in 
