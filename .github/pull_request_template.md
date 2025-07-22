@@ -1,7 +1,7 @@
 ## Description
 
 Please include a summary of the changes and the related issue.
-If relavant, include screenshots. 
+If relevant, include screenshots. 
 Point the reviewer to any specific areas of concern.
 
 Task # 123
